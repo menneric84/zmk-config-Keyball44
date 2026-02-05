@@ -8,6 +8,7 @@ features:
   - keys
   - pointer
   - underglow
+  - studio
 siblings:
   - keyball44_left
   - keyball44_right
