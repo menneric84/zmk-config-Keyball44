@@ -13,11 +13,11 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: cosmos_lemon_wireless 
     shield: keyball44_left
     snippet: studio-rpc-usb-uart
     cmake-args: [-DCONFIG_ZMK_STUDIO=y]
-  - board: nice_nano
+  - board: cosmos_lemon_wireless 
     shield: keyball44_right
-  - board: nice_nano
+  - board: cosmos_lemon_wireless
     shield: settings_reset    
